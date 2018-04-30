@@ -1,0 +1,9 @@
+E:\MSU\CIS 266 C#\Assignments\BonusAssignment\StudentForm\StudentForm\bin\Debug\StudentForm.exe.config
+E:\MSU\CIS 266 C#\Assignments\BonusAssignment\StudentForm\StudentForm\bin\Debug\StudentForm.exe
+E:\MSU\CIS 266 C#\Assignments\BonusAssignment\StudentForm\StudentForm\bin\Debug\StudentForm.pdb
+E:\MSU\CIS 266 C#\Assignments\BonusAssignment\StudentForm\StudentForm\obj\Debug\StudentForm.csprojResolveAssemblyReference.cache
+E:\MSU\CIS 266 C#\Assignments\BonusAssignment\StudentForm\StudentForm\obj\Debug\StudentForm.Form1.resources
+E:\MSU\CIS 266 C#\Assignments\BonusAssignment\StudentForm\StudentForm\obj\Debug\StudentForm.Properties.Resources.resources
+E:\MSU\CIS 266 C#\Assignments\BonusAssignment\StudentForm\StudentForm\obj\Debug\StudentForm.csproj.GenerateResource.Cache
+E:\MSU\CIS 266 C#\Assignments\BonusAssignment\StudentForm\StudentForm\obj\Debug\StudentForm.exe
+E:\MSU\CIS 266 C#\Assignments\BonusAssignment\StudentForm\StudentForm\obj\Debug\StudentForm.pdb
